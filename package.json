@@ -1,0 +1,20 @@
+{
+  "name": "curamen-ruscon-node-repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "diamond.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSIT-3-1/curamen-ruscon-node-repo.git"
+  },
+  "author": "Ruscon Curamen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSIT-3-1/curamen-ruscon-node-repo/issues"
+  },
+  "homepage": "https://github.com/BSIT-3-1/curamen-ruscon-node-repo#readme"
+}
